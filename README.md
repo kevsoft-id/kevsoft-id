@@ -42,10 +42,5 @@ Join the community and connect with like-minded developers: [dub.sh/kevsoft-comu
 
 </div>
 
----
-
-## Sponsors
-
-Whether you simply love what I build, rely on my code for your success, or require **consultation**, **priority access**, or **direct contribution in your projects**, [**sponsoring**](https://github.com/sponsors/kevsoft-id) would be the perfect way to support me. But it's okay to just be friends—thank you for being part of the community!
 
 **"Thank you"** to all! Every bit matters.
