@@ -17,6 +17,11 @@ I work as a full-stack software engineer during the day and a curious developer 
 
 Whether you simply love what I build, rely on my code for your success, or require **consultation**, **priority access**, or **direct contribution in your projects**, [**sponsoring**](https://github.com/sponsors/kevsoft-id) would be the perfect way to support me. But it's okay to just be friends—thank you for being part of the community!
 
-**"Thank you"** to all my sponsors! Every bit matters.
+## Comunity
 
-![Sponsors](sponsorkit/sponsors.svg)
+<img src="assets/1782614388981.png" width="600">
+
+
+my Comunity : https://dub.sh/kevsoft-comunity
+
+**"Thank you"** to all my sponsors! Every bit matters.
