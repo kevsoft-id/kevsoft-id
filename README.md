@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/kevin.png" width="600">
+<img src="assets/1782614388981.png" width="600">
 
 A self-motivated developer who loves learning by doing<br>
 I work as a full-stack software engineer during the day and a curious developer at night
